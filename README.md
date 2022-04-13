@@ -1,9 +1,5 @@
 ## **Poi Website**
 
-## **Video Walkthrough of Project**
-
-
-
 ## **Description**
 A website and react app dedicated to a blog about fire spinning and dancing
 
