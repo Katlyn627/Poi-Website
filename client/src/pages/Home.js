@@ -26,7 +26,7 @@ const Home = () => {
           ) : (
             <ThoughtList
               thoughts={thoughts}
-              title="Some Fire for your Thought(s)..."
+              title="Some Thought(s) to Ignite your Mind..."
             />
           )}
         </div>
